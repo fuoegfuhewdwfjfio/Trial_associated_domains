@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "CGBRDE9JS4.com.example.ExamplePaymentInApp",
+                ],
+                "components": [
+                    {
+                        "/": "/*",
+                        "comment": "すべてのURLが一致します。"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [ "CGBRDE9JS4.com.example.ExamplePaymentInApp" ]
+    },
+}
